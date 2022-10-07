@@ -1,4 +1,3 @@
 Belajar pemrograman javascript dari awal, mulai dari dasar hingga nodeJS
 
 React JS dan Yang lain termasuk ke javascript
-Front dan Back End
