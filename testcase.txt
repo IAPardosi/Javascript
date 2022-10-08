@@ -1,0 +1,5 @@
+Ini contoh penggunaan
+
+Ke depannya github ini akan digunakan untuk proses pengambangan program untuk mempermudah tim dalam bekerja
+
+Perbandingan ini diperlukan
